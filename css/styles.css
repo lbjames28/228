@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> fa2d6557fe70b79862a45aec4abe712fa7d8bca9
 * {
 	margin:0;
 	padding:0;
@@ -47,16 +43,10 @@ a:hover {
 	color: #aec91c;
 	text-decoration: none;
 }
-<<<<<<< HEAD
-img{
-	width:150px;
-	height:250px;
-=======
 img {
 	max-width: 100%;
 	height: auto;
 	width: auto;
->>>>>>> fa2d6557fe70b79862a45aec4abe712fa7d8bca9
 }
 p {
 	line-height:140%;
