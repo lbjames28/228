@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> fa2d6557fe70b79862a45aec4abe712fa7d8bca9
 * {
 	margin:0;
 	padding:0;
@@ -6,7 +9,7 @@
 body {
 	font-family: 'Orienta', sans-serif;
 	font-size:100%;
-	background:#1f3602 url(../images/siteBackground.jpg) no-repeat fixed center top;
+	background:#1f3602 url(../images/q1.jpg) no-repeat fixed center top;
 	margin: 0;
 	padding: 0;
 	color: #f9f9f9;
@@ -44,9 +47,16 @@ a:hover {
 	color: #aec91c;
 	text-decoration: none;
 }
+<<<<<<< HEAD
 img{
 	width:150px;
 	height:250px;
+=======
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto;
+>>>>>>> fa2d6557fe70b79862a45aec4abe712fa7d8bca9
 }
 p {
 	line-height:140%;
